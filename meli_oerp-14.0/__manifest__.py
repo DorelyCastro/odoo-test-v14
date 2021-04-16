@@ -36,7 +36,7 @@
     ],
     'price': '350.00',
     'currency': 'USD',
-    "external_dependencies": {"python": ['pdf2image','meli']},
+    "external_dependencies": {"python": ['meli']},
     'images': [ 'static/description/main_screenshot.png',
                 'static/description/meli_oerp_screenshot.png',
                 'static/description/meli_oerp_configuration_1.png',
